@@ -1,0 +1,8 @@
+name: 'learning_dart'
+
+description: 'Me learning dart!'
+
+environment:
+  sdk: '^3.3.0'
+dependencies:
+  csv: ^6.0.0
